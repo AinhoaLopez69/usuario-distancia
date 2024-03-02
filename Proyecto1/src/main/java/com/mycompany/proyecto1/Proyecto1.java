@@ -15,7 +15,7 @@ public class Proyecto1 {
     {
         Complejo complejo1 = new Complejo(3, 4);
         Complejo complejo2 = new Complejo(-1, 2);
-        Complejo complejo1 = new Complejo(7, 45);
+        Complejo complejo3 = new Complejo(7, 45);
 
     }
 }
